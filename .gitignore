@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+env/
+my_local_db/
+.streamlit/
+.DS_Store
+Thumbs.db

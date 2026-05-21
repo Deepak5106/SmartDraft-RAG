@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+chromadb
+langchain-chroma
+python-dotenv
+protobuf==6.33.6
+sentence-transformers
+torch
