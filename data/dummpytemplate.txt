@@ -1,1 +1,8 @@
-place actual data in txt files like these
+This is a sample enterprise knowledge document.
+
+Add your own domain-specific templates, policies, workflows,
+or email response examples as .txt files inside this folder.
+
+Example use cases:
+- compliance workflows
+- escalation procedures
